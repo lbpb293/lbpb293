@@ -1,7 +1,7 @@
 ## Olá! Me chamo Luis Bernardo.
 
 ## Redes sociais:
-- {linkedin.com/in/luis-bernardo-pessanha-batista-a0297228a}
+- [linkedin][https://linkedin.com/in/luis-bernardo-pessanha-batista-a0297228a]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbpb293)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbpb293)](https://github.com/anuraghazra/github-readme-stats)
