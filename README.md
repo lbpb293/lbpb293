@@ -1,6 +1,6 @@
 ## Olá! Me chamo Luis Bernardo 👋
 
-### Minhas estatísticas
+### Minhas estatísticas 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbpb293)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbpb293)](https://github.com/anuraghazra/github-readme-stats)
